@@ -12,6 +12,7 @@ function isMapFile(filePath) {
   const object = JSON.parse(fs_1.default.readFileSync(filePath).toString());
 
   const parsedMap = mapGuards_1.isMap.safeParse(object)
+  console.log(parsedMap)
   return parsedMap.success;
 }
 
