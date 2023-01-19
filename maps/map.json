@@ -1571,13 +1571,10 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2956,
-         "source":"OfficeFloorplan.tsx"
-        }],
+        }
+ ],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"2",
  "width":100
 }
