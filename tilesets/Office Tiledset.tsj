@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"Office Tiledset.png",
+ "imageheight":472,
+ "imagewidth":472,
+ "margin":0,
+ "name":"Office Tiledset",
+ "spacing":0,
+ "tilecount":196,
+ "tiledversion":"1.9.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.9"
+}
