@@ -846,7 +846,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":224,
+                 "height":124.170080603416,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -872,9 +872,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":192,
-                 "x":768,
-                 "y":224
+                 "width":251.89795163795,
+                 "x":98.8220979326879,
+                 "y":2050.24957295782
                 }, 
                 {
                  "class":"area",
@@ -886,6 +886,38 @@
                  "width":50.2727272727272,
                  "x":438.484848484849,
                  "y":96.3333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":124.17,
+                 "id":18,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":251.898,
+                 "x":98.8531888634179,
+                 "y":1878.31284071582
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1116,7 +1148,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":18,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
