@@ -2397,7 +2397,7 @@
         {
          "columns":16,
          "firstgid":5450,
-         "image":"..\/..\/Example maps\/Example Map 1.png",
+         "image":"..\/tilesets\/Example Map 1.png",
          "imageheight":295,
          "imagewidth":524,
          "margin":0,
@@ -2410,7 +2410,7 @@
         {
          "columns":8,
          "firstgid":5594,
-         "image":"..\/..\/Example maps\/Example Map 2.png",
+         "image":"..\/tilesets\/Example Map 2.png",
          "imageheight":159,
          "imagewidth":282,
          "margin":0,
@@ -2423,7 +2423,7 @@
         {
          "columns":7,
          "firstgid":5626,
-         "image":"..\/..\/Example maps\/Example Map 3.png",
+         "image":"..\/tilesets\/Example Map 3.png",
          "imageheight":276,
          "imagewidth":238,
          "margin":0,
