@@ -1707,19 +1707,6 @@
         }, 
         {
          "columns":25,
-         "firstgid":2956,
-         "image":"..\/tilesets\/Office Tiledset_1.png",
-         "imageheight":800,
-         "imagewidth":800,
-         "margin":0,
-         "name":"Pack 1",
-         "spacing":0,
-         "tilecount":625,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":25,
          "firstgid":3581,
          "image":"..\/tilesets\/Pack 2.png",
          "imageheight":800,
