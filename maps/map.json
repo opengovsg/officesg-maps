@@ -344,7 +344,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"_\/global\/opengovsg.github.io\/officesg-maps\/maps\/Office.json"
+                 "value":"Office.json"
                 }],
          "type":"tilelayer",
          "visible":true,
