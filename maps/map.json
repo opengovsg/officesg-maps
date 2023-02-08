@@ -87,7 +87,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1RhivWfIPJ4JBwwm1YqyE8IyuW0_ii5ev\/view"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1RhivWfIPJ4JBwwm1YqyE8IyuW0_ii5ev\/preview"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +153,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1_BOyK4h4f_DmFb3vegBJR7Uj_q8ZqSXl\/view"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1_BOyK4h4f_DmFb3vegBJR7Uj_q8ZqSXl\/preview"
                 }],
          "type":"tilelayer",
          "visible":true,
