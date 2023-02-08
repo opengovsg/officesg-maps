@@ -1055,23 +1055,28 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":73.3290726226917,
+                 "height":85.7417956638088,
                  "id":48,
-                 "name":"",
+                 "name":"ChatZone",
                  "properties":[
                         {
                          "name":"chatDescription",
                          "type":"string",
-                         "value":"Description her"
+                         "value":"test description"
                         }, 
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"Project 1"
+                         "value":"Claimsbot Booth"
+                        }, 
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":148.676376601971,
+                 "width":159.537509262948,
                  "x":223.694468646238,
                  "y":308.73723215146
                 }, 
