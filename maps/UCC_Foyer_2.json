@@ -432,6 +432,11 @@
                          "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/form.gov.sg\/63e0ae3c92c604001250b9c9"
+                        }, 
+                        {
+                         "name":"openTabTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
