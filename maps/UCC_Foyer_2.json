@@ -429,7 +429,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/form.gov.sg\/63e0ae3c92c604001250b9c9"
                         }],
