@@ -443,9 +443,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/logified.beta.gov.sg\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to try the prototype"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -583,9 +593,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/go.gov.sg\/wizgov-contact-us-form"
+                         "value":"https:\/\/form.gov.sg\/63c7c3b6d4e11c0012247ca9"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Interested in this project? Press SPACE to fill out their interest form!"
                         }],
                  "type":"tilelayer",
                  "visible":true,

@@ -264,9 +264,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/go.gov.sg\/smartgov-interest"
+                         "value":"https:\/\/form.gov.sg\/63e34e69e4e0d60011c8f274"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Interested in this project? Press SPACE to fill out their interest form!"
                         }],
                  "type":"tilelayer",
                  "visible":true,

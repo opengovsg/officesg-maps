@@ -524,9 +524,14 @@
                          "value":"https:\/\/form.gov.sg\/63e0ae3c92c604001250b9c9"
                         }, 
                         {
-                         "name":"openTabTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Interested in this project? Press SPACE to fill out their interest form!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -559,9 +564,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/hfpg23-byos.onrender.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to try the prototype"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -664,9 +679,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/badges.open.gov.sg\/hfpg@open.gov.sg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to try the prototype"
                         }],
                  "type":"tilelayer",
                  "visible":true,
