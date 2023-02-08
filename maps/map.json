@@ -186,7 +186,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/go.gov.sg\/pinpoint"
+                         "value":"https:\/\/form.gov.sg\/63e0bd6f4476640012231145"
                         }],
                  "type":"tilelayer",
                  "visible":true,

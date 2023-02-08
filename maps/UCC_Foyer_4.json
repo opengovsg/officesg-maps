@@ -356,6 +356,12 @@
                  "id":86,
                  "name":"D5 Interest",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"http:\/\/go.gov.sg\/logical-notifier"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":24,
@@ -385,6 +391,12 @@
                  "id":87,
                  "name":"D5 Live",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/logified.beta.gov.sg\/"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":24,
@@ -519,6 +531,12 @@
                  "id":84,
                  "name":"D4 Interest",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/go.gov.sg\/wizgov-contact-us-form"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":24,
@@ -548,6 +566,12 @@
                  "id":85,
                  "name":"D4 live",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/zhongjun-test-staging.netlify.app\/"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":24,

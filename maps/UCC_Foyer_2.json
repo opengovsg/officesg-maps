@@ -256,7 +256,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/drive.google.com\/file\/d\/11IS2sv5VynGyW46VIl3hEHn-o0dlthpR\/preview"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -431,7 +431,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/go.gov.sg\/byos-feedback"
+                         "value":"https:\/\/form.gov.sg\/63e0ae3c92c604001250b9c9"
                         }],
                  "type":"tilelayer",
                  "visible":true,
