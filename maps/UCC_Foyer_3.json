@@ -196,7 +196,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/drive.google.com\/file\/d\/1AilPOSeXozE5p8AKtq9TdSmPN9PMbLJ6\/preview"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -231,7 +231,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQs_6RrT4bO0v7M3TJE19tBnC0OjVl9QkgmY2GXQjWemoPHKNfsI6ufVkTTCwRLJdIPzdILHsNzgpgM\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "type":"tilelayer",
                  "visible":true,
