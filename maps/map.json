@@ -1068,11 +1068,6 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"Claimsbot Booth"
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1095,11 +1090,6 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"Procurement Booth"
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1122,11 +1112,6 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"String Booth"
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1149,11 +1134,6 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"Pinpoint Booth"
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "visible":true,
