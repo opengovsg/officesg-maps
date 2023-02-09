@@ -220,6 +220,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/www.open.gov.sg\/about-us\/team"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Principal Pearly will see you now!"
@@ -336,6 +346,16 @@
          "name":"Always here",
          "opacity":1,
          "properties":[
+                {
+                 "name":"openTab",
+                 "type":"string",
+                 "value":"https:\/\/www.open.gov.sg\/about-us\/team"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
